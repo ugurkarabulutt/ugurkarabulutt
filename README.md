@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Uğur
 
-<!--
-**ugurkarabulutt/ugurkarabulutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack AI Engineer based between Istanbul and Dubai.
 
-Here are some ideas to get you started:
+I build LLM applications, RAG systems and knowledge platforms. My current work focuses on retrieval quality, source grounding, evaluation and the engineering required to make AI applications reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+### IbrahimLive AI
+
+I'm independently building IbrahimLive AI, a knowledge platform designed to provide reliable answers grounded in a large multilingual source corpus.
+
+The system currently includes:
+
+• 6,500+ source files  
+• 40,000+ indexed semantic records  
+• RAG and semantic retrieval  
+• PostgreSQL and pgvector  
+• Data ingestion pipelines  
+• Evaluation and regression testing  
+• Observability and internal tooling
+
+The application is built primarily with Next.js, TypeScript, Supabase, PostgreSQL, pgvector and OpenAI APIs.
+
+The main repository is private. I'm working on publishing technical case studies and selected components that can be shared publicly without exposing private source code or data.
+
+## Current interests
+
+LLM applications  
+RAG and information retrieval  
+AI evaluation  
+Knowledge systems  
+Agentic AI  
+AI reliability and governance
+
+## Background
+
+BSc in Physics Engineering  
+MSc in Information Technologies, in progress
